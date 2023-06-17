@@ -1,0 +1,23 @@
+
+
+.logo{
+    margin-left: 30%;
+}
+
+.text
+{
+    margin-left: 36%;
+    margin-top: -2%;
+    font-size: smaller;
+}
+
+.container{
+    background-color: lightgray;
+    width: 700px;
+    height: 550px;
+    margin-left: 16%;
+}
+
+/* .submit{
+    margin-left: 30%;
+} */
